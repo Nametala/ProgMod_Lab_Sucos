@@ -5,6 +5,7 @@ public class Pedido {
 	private List<Bebida> itens;
 
 	public Pedido() {
+		this.itens = itens.add(Bebida) ;
 		
 	}
 
